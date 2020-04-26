@@ -1,0 +1,18 @@
+.apt-index .search-input {
+  height: 100rpx;
+  width: 100%;
+  background-color: #f93553 f;
+  display: flex;
+  align-self: center;
+  justify-self: center;
+}
+.apt-index .search-input navigator {
+  border-radius: 5rpx ;
+  color: #767676;
+  height: 80rpx;
+  width: 90%;
+  background-color: white;
+  display: flex;
+  align-self: center;
+  justify-self: center;
+}
